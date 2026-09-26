@@ -1,0 +1,10 @@
+First line
+Second	line
+
+
+
+Line after blanks
+Tab:	END
+Control:
+Carriage return:
+Last line without newline
